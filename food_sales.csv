@@ -1,0 +1,31 @@
+Date,Product,Category,Quantity,UnitPrice,PaymentMethod
+2026-01-05,Burger,Fast Food,12,85,Cash
+2026-01-05,Fries,Snacks,18,45,GCash
+2026-01-06,Pizza,Fast Food,8,150,Card
+2026-01-06,Iced Coffee,Beverages,15,65,GCash
+2026-01-07,Milk Tea,Beverages,20,75,Cash
+2026-01-07,Chicken Sandwich,Fast Food,10,95,GCash
+2026-01-08,Donut,Desserts,14,35,Cash
+2026-01-08,Fried Chicken,Meals,9,120,Card
+2026-01-09,Fries,Snacks,22,45,Cash
+2026-01-09,Iced Coffee,Beverages,18,65,GCash
+2026-01-10,Burger,Fast Food,16,85,GCash
+2026-01-10,Milk Tea,Beverages,12,75,Card
+2026-01-11,Pizza,Fast Food,11,150,Cash
+2026-01-11,Donut,Desserts,19,35,GCash
+2026-01-12,Fried Chicken,Meals,13,120,Cash
+2026-01-12,Chicken Sandwich,Fast Food,14,95,Card
+2026-01-13,Fries,Snacks,25,45,GCash
+2026-01-13,Iced Coffee,Beverages,21,65,Cash
+2026-01-14,Burger,Fast Food,18,85,Card
+2026-01-14,Milk Tea,Beverages,16,75,GCash
+2026-01-15,Pizza,Fast Food,9,150,GCash
+2026-01-15,Donut,Desserts,23,35,Cash
+2026-01-16,Fried Chicken,Meals,15,120,GCash
+2026-01-16,Chicken Sandwich,Fast Food,12,95,Cash
+2026-01-17,Fries,Snacks,20,45,Card
+2026-01-17,Iced Coffee,Beverages,17,65,GCash
+2026-01-18,Burger,Fast Food,14,85,Cash
+2026-01-18,Milk Tea,Beverages,22,75,GCash
+2026-01-19,Pizza,Fast Food,10,150,Card
+2026-01-19,Donut,Desserts,16,35,GCash
